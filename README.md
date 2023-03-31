@@ -5,7 +5,7 @@
 <img height="180em" src="https://github-readme-stats-bonaventuragal.vercel.app/api/top-langs/?username=bonaventuragal&layout=compact&theme=aura&langs_count=6&hide=html,powershell,batchfile" />
 </p>
 <br>
-<h1 align="center" style="font-weight: 600;">Hi!, I'm Bonaventura 👋</h1>
+<h1 align="center" style="font-weight: 600;">Hi! I'm Bonaventura 👋</h1>
 <h3 align="center">I'm a Computer Science student at University of Indonesia</h3>
 <br>
 
