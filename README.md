@@ -27,7 +27,7 @@
 <img width="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
-<br>
+
 
 <h2 align="center">What I have used before</h2>
 <p align="center" style="display: flex; justify-content: center; gap: 0.4rem;">
@@ -43,14 +43,12 @@
 <img width="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 <img width="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </p>
-<br>
 
 <h2 align="center">What I'm currently learning</h2>
 <p align="center" style="display: flex; justify-content: center; gap: 0.4rem;">
 <img width="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 <img width="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </p>
-<br>
 
 <h2 align="center">Connect with me!</h2>
 <p align="center" style="display: flex; justify-content: center; gap: 0.4rem;">
