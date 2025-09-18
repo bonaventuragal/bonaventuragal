@@ -6,7 +6,7 @@
 </p>
 <br>
 <h1 align="center" style="font-weight: 600;">Hi! I'm Bonaventura 👋</h1>
-<h3 align="center">I'm a Computer Science student at University of Indonesia</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 <br>
 
 <h2 align="center">What I frequently use</h2>
